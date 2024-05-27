@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class resposta {
     public static void main(String[] args) {
 
-        String nome = "Clark Kent";
+        String nome = "Rafael Júnior";
         String tipoConta = "Corrente";
         double saldo = 1599.99;
         int opcao = 0;
